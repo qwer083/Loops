@@ -5,9 +5,9 @@ public class StrangeSum {
         for (int i = 1; i <= 100; i++) {
 
             if (i % 2 == 0) {
-               sum = sum - i;
+                sum = sum - i;
             } else {
-                sum = sum +i;
+                sum = sum + i;
             }
 
         }

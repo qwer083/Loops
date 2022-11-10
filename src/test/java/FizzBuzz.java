@@ -6,9 +6,10 @@ public class FizzBuzz {
             } else if (i % 5 == 0) {
                 System.out.println("buzz");
             } else if
-                (i % 3 == 0 || i % 5 == 0);
-                { System.out.println("FizzBuzz");
-        }
+            (i % 3 == 0 || i % 5 == 0) ;
+            {
+                System.out.println("FizzBuzz");
             }
         }
     }
+}
